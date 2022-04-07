@@ -8,7 +8,7 @@
 
 ### Links
 
--   Solution URL: Working on it
+-   Solution URL: https://netflix-clone-v2-two.vercel.app/
 
 ## My process
 
